@@ -9,7 +9,7 @@
 #### In this Text Analysis workshop, we'll cover how to load the text analysis packages, generate visualizations and learn how to interpret the results. 
 
 ### Prerequisite
-* #### Have local installation of R and RStudio on own computer or access RStudio Cloud with own account
+* #### Have local installation of R and RStudio on own computer or access [RStudio Cloud](https://login.rstudio.cloud/register) with own account
 * #### Refer to [How to Intall R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) for installation
 * #### Have some basic experience with R programming
 
