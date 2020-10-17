@@ -6,20 +6,18 @@
 
 ### Purpose
 
-#### In this Text Analysis workshop, we'll cover the common statistical methods available under the Analysis ToolPak Add-in.  
+#### In this Text Analysis workshop, we'll cover how to load the text analysis packages, generate visualizations and learn how to interpret the results. 
 
 ### Prerequisite
-* #### Local installation of the Microsoft Excel on own computer.
-* #### Refer to [Microsoft Analysis ToolPak](https://support.microsoft.com/en-us/office/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4) for installation
-* #### Have some basic working knowledge of Microsoft Excel.  
-* #### Introductory level knowledge in search, log-in, nagivation websites, etc.
+* #### Have local installation of R and RStudio on own computer or access RStudio Cloud with own account
+* #### Refer to [How to Intall R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) for installation
+* #### Have some basic experience with R programming
 
 ### The workshop covers
-* Histogram
-* Descriptive Statistics
-* F-test
-* t-test
-* ANOVA
+* Why use R
+* What is text analysis
+* Text mining
+* Sentiment Analysis
 
 ### References
 * [tm Package](https://towardsdatascience.com/understanding-and-writing-your-first-text-mining-script-with-r-c74a7efbe30f)
