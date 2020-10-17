@@ -2,7 +2,7 @@
 
 ### Summary
 
-#### From movie reviews to user reviews, text is an increasingly important type of data across application.  In fields like marketing, text is an important aspect of data analysis to determine what are the customers thinking.  To take advantage of what text offers, you need to know how to think, clean and summarize the text.  In this workshop, you will exposed to how to handle and visualize text, perform sentiment analysis and interpret the results.  
+#### From movie reviews to user reviews, text is an increasingly important type of data across application.  In fields like marketing, text is an important aspect of data analysis to determine what are the customers thinking.  To take advantage of what text offers, you need to know how to think, clean and summarize the text.  In this workshop, you will be exposed to how to handle and visualize text, perform sentiment analysis and interpret the results.  
 
 ### Purpose
 
