@@ -2,7 +2,11 @@ Intro to Text Analysis Using R
 ========================================================
 author: Cindy Cheng
 date: November 4, 2020
+transition: none
 autosize: true
+css: custom.css
+
+## Murty Sunak Quantitative and Computing Lab
 
 Before We Start 
 ========================================================
@@ -238,7 +242,7 @@ Hands on exercises (20 to 25 minutes)
 2. Use the [bike](https://www.amazon.com/Schwinn-Front-Suspension-Lightweight-Step-Over-Drivetrain/dp/B07NZY5HY6/ref=cm_cr_arp_d_product_top?ie=UTF8) reviews or [restaurant](https://www.kingandprince.com/dining-guest-reviews.aspx) reviews, generate a sentiment histogram
 
 When done: 
-* Post the word cloud and the sentiment histogram to  [Padlet](https://padlet.com/cindycheng/xqt55dvmy8xyucdr)
+* Post the word frequency bar plot, word cloud and the sentiment histogram to  [Gallery](https://docs.google.com/presentation/d/1HiaHUejWNUZFUAB8LoxT_9cOz1xZCT_fWLScCMYM9M4/edit?usp=sharing)
 * Include 1 or 2 sentences of your take on the output
 
 Take a gallery walk on the output in the last 5-10 minutes
