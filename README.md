@@ -10,7 +10,7 @@
 
 ### Prerequisite
 * #### Have local installation of R and RStudio on own computer or access [RStudio Cloud](https://login.rstudio.cloud/register) with own account
-* #### Refer to [How to Intall R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) for installation
+* #### Refer to [How to Install R](https://www.datacamp.com/community/tutorials/installing-R-windows-mac-ubuntu) for installation
 * #### Have some basic experience with R programming
 
 ### The workshop covers
